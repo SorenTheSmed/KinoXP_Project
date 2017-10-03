@@ -1,6 +1,6 @@
-package Controller;
+package controller;
 
-import View.Login;
+import view.Login;
 import javafx.application.Application;
 import javafx.stage.Stage;
 

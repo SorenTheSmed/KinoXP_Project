@@ -1,0 +1,33 @@
+.root {
+    -fx-background-color: azure;
+}
+
+
+.text-field {
+    -fx-min-width: 100;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+}
+
+.password-field {
+    -fx-min-width: 100;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+}
+
+.button {
+    -fx-min-width: 250;
+    -fx-background-color: lightblue;
+    -fx-border-color: black;
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+}
+
+.label {
+    -fx-text-fill: black;
+    -fx-text-alignment: center;
+}
+
+#loginLabel {
+    -fx-font-weight: bold;
+}

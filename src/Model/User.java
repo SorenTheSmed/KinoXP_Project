@@ -1,8 +1,8 @@
-package Model;
+package model;
 
 public class User {
 
-    private String username;
+    private String email;
     private String password;
 
 
@@ -11,18 +11,18 @@ public class User {
     }
 
     public User(String username, String password) {
-        this.username = username;
+        this.email = username;
         this.password = password;
     }
 
 
     // Getters and setters
     public String getUsername() {
-        return username;
+        return email;
     }
 
     public void setUsername(String username) {
-        this.username = username;
+        this.email = username;
     }
 
     public String getPassword() {
