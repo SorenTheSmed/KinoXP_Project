@@ -1,0 +1,19 @@
+#backGround{
+
+    -fx-background-image: url("kinoDerTOten.jpg");
+    -fx-background-size: 1600px 900px;
+    -fx-background-repeat: no-repeat;
+}
+
+#labelUsername{
+    -fx-font-size: 30px;
+    -fx-text-fill: black;
+    -fx-background-position: center;
+    -fx-background-radius: 10px;
+}
+
+#kino{
+    -fx-font-size: 100px;
+    -fx-text-fill: #ff0b0e;
+    -fx-background-position: center;
+}
